@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/FaceSwapper去水印_0.0.1_rootless-arm64.deb
+Filename: ./debs/iphoneos-arm64/FaceSwapper去水印_0.0.1_rootless-arm64.deb
 Size: 5832
 MD5sum: db72b8d7c04609ca1209e8dcdffe6605
 SHA1: d58959a9c7cf05e51cd0728a1fec8e9caa0a4be5
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟
 Installed-Size: 10400
 Depends: mobilesubstrate
-Filename: ./debs/cn.llld.kbtool_3.5.0-1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/cn.llld.kbtool_3.5.0-1_iphoneos-arm64.deb
 Size: 3319536
 MD5sum: 5119eb3c47993950b6feef4de3cd3513
 SHA1: 0af6c88ccba6de1278e7c508bc5df815583fde3d
@@ -38,7 +38,7 @@ Architecture: iphoneos-arm64
 Maintainer: 来了老弟 X：h_h_x_t
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/Pixact-Pro_0.0.1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/Pixact-Pro_0.0.1_iphoneos-arm64.deb
 Size: 5360
 MD5sum: 449cf4ec3b50eb6b73004e9d3f2e1f2d
 SHA1: 1513695afcaaca260431f9522548df6f18e64332
@@ -55,7 +55,7 @@ Maintainer: SquidForce, Backup
 Installed-Size: 5344
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: ./debs/cn.octoforce.copyvault_1.7.0_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/cn.octoforce.copyvault_1.7.0_iphoneos-arm64.deb
 Size: 1678442
 MD5sum: d9914532c573beba7f1991774d0aebc3
 SHA1: 930fa89eb200fb8164d2242eb285d6f753888d4a
@@ -73,7 +73,7 @@ Maintainer: SquidForce, Backup
 Installed-Size: 9424
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: ./debs/cn.octoforce.squidextender_2.0.2_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/cn.octoforce.squidextender_2.0.2_iphoneos-arm64.deb
 Size: 2100172
 MD5sum: 58a34b12201bdc167310481cc1315e29
 SHA1: f9b3caee5f1435b3f541b2410d05a9f5f0549eb0
@@ -90,7 +90,7 @@ Architecture: iphoneos-arm
 Maintainer: huami
 Installed-Size: 680
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.huami.dyyy_2.1-7-3_iphoneos-arm.deb
+Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.1-7-3_iphoneos-arm.deb
 Size: 126464
 MD5sum: a931d75649f8203d367af07e791a7af0
 SHA1: e49f7d41026e049c095574a3a5662c72d1ea8152
@@ -108,7 +108,7 @@ Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Installed-Size: 2064
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/PlampyUIPro-Rootless-Paid-PhucDo.deb
+Filename: ./debs/iphoneos-arm64/PlampyUIPro-Rootless-Paid-PhucDo.deb
 Size: 727356
 MD5sum: 5e09522fae8f14141b56d99d5fc17dbf
 SHA1: d4d6866117fc114715e70920b0271d9a8b9a37a8
@@ -124,7 +124,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/o3 分屏付费泄露版①去除联网验证--pro_1.3.7_无根(1).deb
+Filename: ./debs/iphoneos-arm64/o3 分屏付费泄露版①去除联网验证--pro_1.3.7_无根(1).deb
 Size: 1536928
 MD5sum: 037fcb5128c192a3634ac55eb5bcee70
 SHA1: a2e69f21ee2d0e2e8b7d606ee8635df331cb7e45
@@ -141,7 +141,7 @@ Architecture: iphoneos-arm64
 Maintainer: xybp888
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xybp888.test_0.0.1-28_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.xybp888.test_0.0.1-28_iphoneos-arm64.deb
 Size: 4912
 MD5sum: 8773456da2ce97d054b5f79efbd4b0a0
 SHA1: 41c79df3fab912d2ea685db7c225ad848472b6d3
@@ -157,7 +157,7 @@ Architecture: iphoneos-arm64
 Maintainer: 余忆
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.yuyi.baobaoshu_0.0.3_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.baobaoshu_0.0.3_iphoneos-arm64.deb
 Size: 2578
 MD5sum: ea6dd674faa7cd690d3ec401facaac1a
 SHA1: a2d7d8923150ee5548f92443b07259f3184be725
@@ -172,7 +172,7 @@ Architecture: iphoneos-arm64
 Maintainer: 余忆
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.yuyi.huaxiaozhu_0.3_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.huaxiaozhu_0.3_iphoneos-arm64.deb
 Size: 2454
 MD5sum: 126ac66f20e13ca21e04fafd36d94a5a
 SHA1: 4b215facbf3bd781311c89a73f4fefc1e4446127
@@ -188,7 +188,7 @@ Architecture: iphoneos-arm64
 Maintainer: yuyi <1>
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yuyi.kugou_0.2-1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.kugou_0.2-1_iphoneos-arm64.deb
 Size: 2568
 MD5sum: 38a1c80fc019b5e99ab5a59472d3ab1b
 SHA1: f2a4c1401c79e8cb79f6c201cb678a3fdbb83e90
@@ -204,7 +204,7 @@ Architecture: iphoneos-arm64
 Maintainer: yuyi
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.yuyi.lolmqgg_0.3_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.lolmqgg_0.3_iphoneos-arm64.deb
 Size: 2216
 MD5sum: fd24ceb4d9be264dae0b5ecf43e94b1d
 SHA1: fefce8cef5916cdec924d2c3e4410662abe2cfc4
@@ -219,7 +219,7 @@ Architecture: iphoneos-arm64
 Maintainer: yuyi <1>
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.yuyi.mdd_0.0.2_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.mdd_0.0.2_iphoneos-arm64.deb
 Size: 2442
 MD5sum: b322e213a47797ca32f3dc020a8d93bb
 SHA1: ff14fa012197662d28e11b89b651f6724151d3e0
@@ -235,7 +235,7 @@ Architecture: iphoneos-arm64
 Maintainer: yuyi
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.yuyi.niwodn_0.0.1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.niwodn_0.0.1_iphoneos-arm64.deb
 Size: 2160
 MD5sum: cce5742ab5307713f71e3f76c7449814
 SHA1: 72845f7a2a7f898c9043d156d800cd74e0163323
@@ -250,7 +250,7 @@ Architecture: iphoneos-arm64
 Maintainer: yuyi
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.yuyi.shengsheng_0.1-2_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.shengsheng_0.1-2_iphoneos-arm64.deb
 Size: 2306
 MD5sum: 211300ec4cab688893fc4c1eba1e3ce2
 SHA1: 1eedaf459312154ac404c59f902aa35777e0cb07
@@ -266,7 +266,7 @@ Architecture: iphoneos-arm64
 Maintainer: 余忆
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.yuyi.txweiyun_0.1-1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.txweiyun_0.1-1_iphoneos-arm64.deb
 Size: 2124
 MD5sum: e1a9cf6205110717a059a3d6ac7a019c
 SHA1: 4c5c2ac99da0cd8da55b405526e7fceb8d5baac2
@@ -282,7 +282,7 @@ Architecture: iphoneos-arm64
 Maintainer: 余忆
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.yuyi.videorotate30_0.0.1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.yuyi.videorotate30_0.0.1_iphoneos-arm64.deb
 Size: 2218
 MD5sum: 7d73859f2d5af957e6d66575148df109
 SHA1: 07572a9058cb8f4c88330aa40b1a89fb99e11a20
@@ -297,7 +297,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 276
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/微信人脸识别_1.1-1.deb
+Filename: ./debs/iphoneos-arm64/微信人脸识别_1.1-1.deb
 Size: 59246
 MD5sum: f303d75ae15e93b6b739ae599f013649
 SHA1: 5439f59d82b68134c96ac5c977f32e0e3e04d9d0
