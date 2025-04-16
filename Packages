@@ -133,68 +133,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: xybp888
 Name: test
 
-Package: com.yuyi.baobaoshu
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: 余忆
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.yuyi.baobaoshu_0.0.3_iphoneos-arm64.deb
-Size: 2578
-MD5sum: ea6dd674faa7cd690d3ec401facaac1a
-SHA1: a2d7d8923150ee5548f92443b07259f3184be725
-SHA256: ae92113030ac82432e55b331f1a0645d78e5516daa679b2f97d3b6788afc0a14
-Section: Tweaks
-Author: 余忆
-Name: 宝宝树孕育去广告
-
-Package: com.yuyi.huaxiaozhu
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: 余忆
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.yuyi.huaxiaozhu_0.3_iphoneos-arm64.deb
-Size: 2454
-MD5sum: 126ac66f20e13ca21e04fafd36d94a5a
-SHA1: 4b215facbf3bd781311c89a73f4fefc1e4446127
-SHA256: d5b8c3b7c1054e9d6c74051a463f96e4aa522d6dd22c12f2dc9d87b17a3ea59a
-Section: Tweaks
-Description: 1.11.2版本
-Author: 余忆
-Name: 花小猪打车[牛爷爷]
-
-Package: com.yuyi.kugou
-Version: 0.2-1
-Architecture: iphoneos-arm64
-Maintainer: yuyi <1>
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.yuyi.kugou_0.2-1_iphoneos-arm64.deb
-Size: 2568
-MD5sum: 38a1c80fc019b5e99ab5a59472d3ab1b
-SHA1: f2a4c1401c79e8cb79f6c201cb678a3fdbb83e90
-SHA256: 33d705188cb0edaafbb26f6ea744bc7ff2f6ee90abb4482210ffb24d411cb8e4
-Section: Tweaks
-Description: 去开屏广告
-Author: yuyi <1>
-Name: 酷狗音乐牛爷爷
-
-Package: com.yuyi.lolmqgg
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: yuyi
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.yuyi.lolmqgg_0.3_iphoneos-arm64.deb
-Size: 2216
-MD5sum: fd24ceb4d9be264dae0b5ecf43e94b1d
-SHA1: fefce8cef5916cdec924d2c3e4410662abe2cfc4
-SHA256: c3348f7da8e844c143f74d2e9d84eb6526475d2eba85000d8c2be9a3dbc9b774
-Section: Tweaks
-Author: yuyi
-Name: 掌上英雄联盟 去启动广告
-
 Package: com.yuyi.mdd
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -210,68 +148,6 @@ Section: Tweaks
 Description: 埋堆堆5.2.41去开屏广告
 Author: 余忆
 Name: 埋堆堆 去开屏
-
-Package: com.yuyi.niwodn
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: yuyi
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.yuyi.niwodn_0.0.1_iphoneos-arm64.deb
-Size: 2160
-MD5sum: cce5742ab5307713f71e3f76c7449814
-SHA1: 72845f7a2a7f898c9043d156d800cd74e0163323
-SHA256: cda61d97e00f50033d2cf3955feedb443fc139408a681a081cdef10a1878503e
-Section: Tweaks
-Author: yuyi
-Name: 你我当年去广告
-
-Package: com.yuyi.shengsheng
-Version: 0.1-2
-Architecture: iphoneos-arm64
-Maintainer: yuyi
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.yuyi.shengsheng_0.1-2_iphoneos-arm64.deb
-Size: 2306
-MD5sum: 211300ec4cab688893fc4c1eba1e3ce2
-SHA1: 1eedaf459312154ac404c59f902aa35777e0cb07
-SHA256: 78bb84d9dae4a8f62ac7652f83929fc06941c935ae920bcffb74aaa068239863
-Section: Tweaks
-Description: 去开屏广告
-Author: yuyi
-Name: 省省货主
-
-Package: com.yuyi.txweiyun
-Version: 0.1-1
-Architecture: iphoneos-arm64
-Maintainer: 余忆
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.yuyi.txweiyun_0.1-1_iphoneos-arm64.deb
-Size: 2124
-MD5sum: e1a9cf6205110717a059a3d6ac7a019c
-SHA1: 4c5c2ac99da0cd8da55b405526e7fceb8d5baac2
-SHA256: 9405ae01dc64bdc9abcd21b1711fb9e26ceecfa8edf1e07e3eadd9b038bff8bc
-Section: Tweaks
-Description: ä½å¿
-Author: 余忆
-Name: 腾讯微云[牛爷爷]
-
-Package: com.yuyi.videorotate30
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: 余忆
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.yuyi.videorotate30_0.0.1_iphoneos-arm64.deb
-Size: 2218
-MD5sum: 7d73859f2d5af957e6d66575148df109
-SHA1: 07572a9058cb8f4c88330aa40b1a89fb99e11a20
-SHA256: cebe186c17f55a777f81b806aafb9639ec8c4dccdb013837ab43d7b8e8f010ee
-Section: Tweaks
-Author: 余忆
-Name: VideoRotate3.0
 
 Package: netskao.wechathook
 Version: 1.1-1
